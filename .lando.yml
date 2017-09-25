@@ -1,0 +1,7 @@
+name: macchiato-micro
+recipe: pantheon
+config:
+  framework: drupal8
+  env: dev
+  site: macchiato-micro
+  id: 81a81eea-c495-40ab-b9c8-fa22ee8a680f
